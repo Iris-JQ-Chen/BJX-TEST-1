@@ -10,7 +10,7 @@ public class test1 {
     static final String USER = "root";
     static final String PASS = "cjqloveldf999";
 
-    public static void main(String[] args){
+    public static void maina(String[] args){
 
         Connection connection = null;
         Statement statement = null;
